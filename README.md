@@ -4,6 +4,8 @@ Welcome to my GitHub profile! I'm currently pursuing a Masters in Business Analy
 
 ##### 🧪 Topics Explored: Unstructured Data, Image Classification, Portfolio Optimization, Statistical Arbitrage, and many more!
 
+##### 🖋️ Wrote Medium Article on <a href='https://medium.com/@jordan.ehlinger/driver-drowsiness-facial-image-analysis-7d0171ed52a3'>Driver Drowsiness Facial Image Analysis</a>. Uses various CNN architectures to create a model that detects when a driver closes their eyes for an extended period of time.
+
 ##### 📔 Interesting Things I've Read Recently:
 <ul>
 <li><a href='https://www.wiley.com/en-us/Quantitative+Portfolio+Management%3A+The+Art+and+Science+of+Statistical+Arbitrage-p-9781119821328'>Quantitative Portfolio Management by Michael Isichenko</a></li>
