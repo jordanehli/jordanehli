@@ -1,6 +1,6 @@
 ## Howdy 🤠
 
-Welcome to my GitHub profile! I'm currently pursuing a Masters in Business Analytics from the McCombs School of Business at the University of Texas at Austin 🤘. I do not come from a traditional background for a data scientist, but I have always been interested in quantitative subjects. Through work experiences, I discovered a love for programming and diving deeper into the different facets of analysis. On my profile, you'll find a mix of school projects as well as personal projects I've undergone out of curiosity or to build out my skillset. Feel free to reach out if you have any questions, comments, suggestions!
+Welcome to my GitHub profile! I'm currently pursuing a Masters in Business Analytics from the McCombs School of Business at the University of Texas at Austin 🤘. I do not come from a traditional background for a data scientist, but I have always been interested in quantitative subjects. Through work experiences, I discovered a love for programming and diving deeper into the different facets of analysis. On my profile, you'll find a mix of school projects as well as personal projects I've undergone out of curiosity or to build out my skillset. Feel free to reach out if you have any questions, comments, or suggestions!
 
 ##### 🧪 Topics Explored: Unstructured Data, Image Classification, Portfolio Optimization, Statistical Arbitrage, and many more!
 
